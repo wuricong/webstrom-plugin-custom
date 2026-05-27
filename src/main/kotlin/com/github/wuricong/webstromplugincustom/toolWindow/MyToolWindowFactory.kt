@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.toolWindow
+package com.github.wuricong.webstromplugincustom.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -11,8 +11,8 @@ import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
 import com.intellij.util.ui.UIUtil
-import org.jetbrains.plugins.template.MyBundle
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.wuricong.webstromplugincustom.MyBundle
+import com.github.wuricong.webstromplugincustom.services.MyProjectService
 import javax.swing.JButton
 
 
